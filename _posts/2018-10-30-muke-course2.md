@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "慕课网网课目录3.0"
+title:  "【测试】我的测试博客】3.0"
 categories: 学习教程
 tags:  Python Java Android PHP  机器学习 小程序
 author: SnakeSon
