@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "慕课网网课目录"
+title:  "慕课网网课目录3.0"
 categories: 学习教程
 tags:  Python Java Android PHP  机器学习 小程序
 author: SnakeSon
@@ -27,7 +27,7 @@ author: SnakeSon
 
 
 
-## 慕课网课程目录
+## 慕课网课程目录2.0
 
 046 MK java仿抖音实战
 
