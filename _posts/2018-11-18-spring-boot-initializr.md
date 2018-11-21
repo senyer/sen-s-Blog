@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【spring boot】spring boot项目的快速搭建"
-categories: spring boot
+categories: springboot
 tags: springboot 
 author: senyer
 ---
