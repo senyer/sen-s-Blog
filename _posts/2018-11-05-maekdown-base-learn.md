@@ -130,3 +130,18 @@ Markdown中的转义字符为\，若不想使符号变成文字的格式等，�
 复选框（注意有空格）：使用- [ ]和- [x]语法可以创建复选框。
 
 常见功能已经列出，其余如公式流程图时序图等见示例，更多说明见参考链接。但复杂的公式流程图等还是建议用专门软件更为便捷。
+
+
+### markdown支持的语法高亮语言
+*使用方式*
+
+     ``` key
+      代码段 
+     ```
+![](https://i.imgur.com/iMi9Ugu.png)
+![](https://i.imgur.com/a2bJU1c.png)
+![](https://i.imgur.com/V6HeDwb.png)
+![](https://i.imgur.com/rDV8MOs.png)
+![](https://i.imgur.com/f1utjk4.png)
+![](https://i.imgur.com/f2WBLe0.png)
+![](https://i.imgur.com/idU2WRG.png)
