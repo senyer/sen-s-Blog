@@ -118,6 +118,19 @@ public class HelloWorld {
 深青色文字：<font color="#006666">深青色文字</font><br /> 
 浅紫色文字：<font color="#dd00dd">浅紫色文字</font><br /> 
 深紫色文字：<font color="#660066">深紫色文字</font><br />
+    
+    浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
+    深红色文字：<font color="#660000">深红色文字</font><br /> 
+    浅绿色文字：<font color="#00dd00">浅绿色文字</font><br /> 
+    深绿色文字：<font color="#006600">深绿色文字</font><br /> 
+    浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br /> 
+    深蓝色文字：<font color="#000066">深蓝色文字</font><br /> 
+    浅黄色文字：<font color="#dddd00">浅黄色文字</font><br /> 
+    深黄色文字：<font color="#666600">深黄色文字</font><br /> 
+    浅青色文字：<font color="#00dddd">浅青色文字</font><br /> 
+    深青色文字：<font color="#006666">深青色文字</font><br /> 
+    浅紫色文字：<font color="#dd00dd">浅紫色文字</font><br /> 
+    深紫色文字：<font color="#660066">深紫色文字</font><br />
 
 ### 11. 其他补充
 
@@ -138,6 +151,10 @@ Markdown中的转义字符为\，若不想使符号变成文字的格式等，�
      ``` key
       代码段 
      ```
+
+>语法集合
+>
+
 ![](https://i.imgur.com/iMi9Ugu.png)
 ![](https://i.imgur.com/a2bJU1c.png)
 ![](https://i.imgur.com/V6HeDwb.png)
