@@ -12,6 +12,7 @@ author: senyer
 
 
 
+
 ## 前言
 学习mybatis-plus的代码自动生成，通用的CRUD，强大的wrapper条件构造器。
 

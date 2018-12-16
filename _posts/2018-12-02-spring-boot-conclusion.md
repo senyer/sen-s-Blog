@@ -14,12 +14,6 @@ author: senyer
 
 
 
-
-
-
-
-## Spring Boot入门
-
 ### 前言
 
 >初次使用spring boot，记录spring boot的一些基本功能。很多功能，基于约定大于配置的理念，spring boot都给我们默认配置好了。我们按照他的约定来，就可以省区很多工作。很方便。
