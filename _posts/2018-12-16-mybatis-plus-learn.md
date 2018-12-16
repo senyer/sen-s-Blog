@@ -24,7 +24,7 @@ author: senyer
 
 > 系统源码+测试用例：[https://gitee.com/baomidou/mybatis-plus](https://gitee.com/baomidou/mybatis-plus "https://gitee.com/baomidou/mybatis-plus")
 
-> 我的项目：
+> 我的项目：[https://github.com/senyer/mybatis-plus-charpter1.git](https://github.com/senyer/mybatis-plus-charpter1.git "https://github.com/senyer/mybatis-plus-charpter1.git")
 
 - jdk1.8
 - spring boot2.1.0
