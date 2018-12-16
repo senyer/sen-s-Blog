@@ -23,6 +23,8 @@ author: senyer
 
 > 系统源码+测试用例：[https://gitee.com/baomidou/mybatis-plus](https://gitee.com/baomidou/mybatis-plus "https://gitee.com/baomidou/mybatis-plus")
 
+> 我的项目：
+
 - jdk1.8
 - spring boot2.1.0
 - mysql5.7
