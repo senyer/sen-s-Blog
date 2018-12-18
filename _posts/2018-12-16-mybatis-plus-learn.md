@@ -18,6 +18,11 @@ author: senyer
 
 
 
+
+
+
+
+
 ## 基本配置
 
 > 官方文档：[http://mp.baomidou.com/](http://mp.baomidou.com/ "http://mp.baomidou.com/")
