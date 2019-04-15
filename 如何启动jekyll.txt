@@ -1,0 +1,6 @@
+cmd：
+	进入到D:\Github\Cloud\senyer.github.io
+
+运行 jekyll serve
+
+网页访问： http://localhost:4000/
